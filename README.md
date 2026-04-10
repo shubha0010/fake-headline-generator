@@ -65,7 +65,7 @@ places_or_things = ["your place here", ...]
 - Fully random headline generation
 - Interactive loop — generate as many headlines as you want
 - Easy to extend with new subjects, actions, and places
-- Beginner-friendly Python code.
+- Beginner-friendly Python code
 
 ## 👨‍💻 Author
 
